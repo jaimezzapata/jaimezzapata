@@ -1,5 +1,7 @@
-<h2 align="left">Hola👋! mi nombre es Jaime Zapata y soy un desarrollador de software aque actualmente se dedica a la docencia técnica. Soy de Medellín Colombia</h2>
-
+###
+<h2 align="left">Hola👋! mi nombre es Jaime Zapata y soy un desarrollador de software que actualmente se dedica a la docencia técnica.</h2>
+###
+<h2>Soy de Medellín Colombia</h2>
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
