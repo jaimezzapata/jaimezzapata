@@ -47,7 +47,7 @@ Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con expe
 |----------------|-------------|
 | 🧾 **Descripción** | Aplicación para organizar y controlar tus suscripciones digitales. Incluye calendario, alertas, categorías y visualización de gastos. |
 | 🔍 Funciones clave | Seguimiento por tipo de servicio, alertas por vencimiento, panel con resumen visual |
-| 🔗 Demo | [Ver en vivo](https://front-despliegue-rho.vercel.app/login)|
+| 🔗 Demo | [Ver en vivo](https://front-despliegue-rho.vercel.app)|
 | 📦 Repositorio | [Control Suscripciones](https://github.com/jaimezzapata/control-suscripciones.git) |
 
 ---
