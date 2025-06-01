@@ -43,101 +43,45 @@ Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con expe
 
 #### 🧠 Gestor Inteligente de Suscripciones
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/jaimezzapata/gestor-suscripciones/blob/main/public/preview.png?raw=true" alt="Preview Gestor Suscripciones" width="100%" />
-    </td>
-    <td>
-      <h3>🧾 Descripción</h3>
-      <p>Aplicación para organizar y controlar tus suscripciones digitales. Incluye calendario, alertas, categorías y visualización de gastos recurrentes.</p>
-      <ul>
-        <li>🔍 Seguimiento por tipo de servicio</li>
-        <li>📆 Alertas próximas a vencimiento</li>
-        <li>📊 Panel con resumen visual</li>
-      </ul>
-      <p>
-        🔗 <a href="https://gestor-suscripciones.vercel.app">Demo en vivo</a> |
-        📦 <a href="https://github.com/jaimezzapata/gestor-suscripciones">Repositorio</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Característica | Descripción |
+|----------------|-------------|
+| 🧾 **Descripción** | Aplicación para organizar y controlar tus suscripciones digitales. Incluye calendario, alertas, categorías y visualización de gastos. |
+| 🔍 Funciones clave | Seguimiento por tipo de servicio, alertas por vencimiento, panel con resumen visual |
+| 🔗 Demo | [Ver en vivo](https://front-despliegue-rho.vercel.app/login)|
+| 📦 Repositorio | [Control Suscripciones](https://github.com/jaimezzapata/control-suscripciones.git) |
 
 ---
 
 #### 💸 Simulador de Finanzas Personales
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/jaimezzapata/simulador-finanzas/blob/main/public/preview.png?raw=true" alt="Preview Finanzas Personales" width="100%" />
-    </td>
-    <td>
-      <h3>🧾 Descripción</h3>
-      <p>Aplicación para el control mensual de gastos personales, con gráficos y estadísticas automáticas por categoría.</p>
-      <ul>
-        <li>💵 Registro de ingresos y egresos</li>
-        <li>📊 Gráficos de resumen mensual</li>
-        <li>📁 Exportación de reportes</li>
-      </ul>
-      <p>
-        🔗 <a href="https://finanzas-personales.vercel.app">Demo en vivo</a> |
-        📦 <a href="https://github.com/jaimezzapata/simulador-finanzas">Repositorio</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Característica | Descripción |
+|----------------|-------------|
+| 🧾 **Descripción** | Control de ingresos y egresos mensuales, con generación automática de gráficos y resúmenes. Ideal para presupuestos personales. |
+| 📊 Funciones clave | Categorías, resumen mensual, exportación de reportes |
+| 🔗 Demo | [Ver en vivo](#) |
+| 📦 Repositorio | [github.com/jaimezzapata/simulador-finanzas](#) |
 
 ---
 
 #### 📝 Notas Colectivas (MPA)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/jaimezzapata/notas-colectivas/blob/main/public/preview.png?raw=true" alt="Preview Notas Colectivas" width="100%" />
-    </td>
-    <td>
-      <h3>🧾 Descripción</h3>
-      <p>Aplicación modular para crear, editar y compartir notas colectivas entre compañeros de estudio.</p>
-      <ul>
-        <li>🧾 Creación colaborativa de notas</li>
-        <li>🔐 Sistema de autenticación local</li>
-        <li>📁 Organización por usuario</li>
-      </ul>
-      <p>
-        🔗 <a href="https://notas-colectivas.vercel.app">Demo en vivo</a> |
-        📦 <a href="https://github.com/jaimezzapata/notas-colectivas">Repositorio</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Característica | Descripción |
+|----------------|-------------|
+| 🧾 **Descripción** | App para tomar notas colectivas entre estudiantes o equipos. Incluye autenticación y administración por usuario. |
+| 🧩 Funciones clave | Crear y editar notas, sistema de login, organización por usuario |
+| 🔗 Demo | [Ver en vivo](#) |
+| 📦 Repositorio | [github.com/jaimezzapata/notas-colectivas](#) |
 
 ---
 
 #### 📘 Plataforma Educativa (SPA)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/jaimezzapata/plataforma-educativa/blob/main/public/preview.png?raw=true" alt="Preview Plataforma Educativa" width="100%" />
-    </td>
-    <td>
-      <h3>🧾 Descripción</h3>
-      <p>Gestión de contenido educativo por materia y semana. Incluye recursos, notas adicionales, ventajas y desventajas por tema.</p>
-      <ul>
-        <li>📚 Gestión por materia y semanas</li>
-        <li>✅ Panel administrativo para edición</li>
-        <li>🧩 Diseñado con UX minimalista y accesible</li>
-      </ul>
-      <p>
-        🔗 <a href="https://edu-platform.vercel.app">Demo en vivo</a> |
-        📦 <a href="https://github.com/jaimezzapata/plataforma-educativa">Repositorio</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Característica | Descripción |
+|----------------|-------------|
+| 🧾 **Descripción** | Plataforma para docentes que organiza el contenido por materia y semanas. Incluye recursos, notas y secciones editables. |
+| 📚 Funciones clave | Panel administrativo, gestión por semana, diseño minimalista y enfocado en UX |
+| 🔗 Demo | [Ver en vivo](#) |
+| 📦 Repositorio | [github.com/jaimezzapata/plataforma-educativa](#) |
 
 ---
 
