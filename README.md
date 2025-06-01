@@ -16,10 +16,10 @@
 
 Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con experiencia en **docencia y desarrollo frontend**. Me apasiona crear interfaces intuitivas, enseñar de forma práctica y desarrollar proyectos que resuelvan problemas reales.
 
-- 🧠 Apasionado por la enseñanza y el aprendizaje constante
-- 🛠️ Trabajo principalmente con HTML, CSS, JavaScript y React
-- 🎓 Profesor de desarrollo de software con enfoque en el pensamiento lógico y práctico
-- 💼 Buscando oportunidades para seguir creciendo como desarrollador y mentor
+- 🧠 Apasionado por la enseñanza y el aprendizaje constante  
+- 🛠️ Trabajo principalmente con HTML, CSS, JavaScript y React  
+- 🎓 Profesor de desarrollo de software con enfoque en el pensamiento lógico y práctico  
+- 💼 Buscando oportunidades para seguir creciendo como desarrollador y mentor  
 
 📫 Puedes contactarme en: [zapataval2304@gmail.com](mailto:zapataval2304@gmail.com)
 
@@ -39,16 +39,105 @@ Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con expe
 
 ---
 
-### 🚀 Mis proyectos destacados
+### 🚀 Proyectos Destacados
 
-| Proyecto | Demo | Repositorio |
-|---------|------|-------------|
-| 🧠 **Gestor Inteligente de Suscripciones**<br/>Aplicación web para llevar el control de tus suscripciones digitales. | [Ver demo](https://gestor-suscripciones.vercel.app) | [Ver repo](https://github.com/jaimezzapata/gestor-suscripciones) |
-| 💸 **Simulador de Finanzas Personales**<br/>Control de gastos mensuales con gráficos y resúmenes automáticos. | [Ver demo](https://finanzas-personales.vercel.app) | [Ver repo](https://github.com/jaimezzapata/simulador-finanzas) |
-| 📝 **Notas Colectivas (MPA)**<br/>App modular para tomar notas colaborativas por grupo de estudio. | [Ver demo](https://notas-colectivas.vercel.app) | [Ver repo](https://github.com/jaimezzapata/notas-colectivas) |
-| 📘 **Plataforma Educativa**<br/>Gestión de contenidos por materia, semanas, recursos y proyectos integradores. | [Ver demo](https://edu-platform.vercel.app) | [Ver repo](https://github.com/jaimezzapata/plataforma-educativa) |
+#### 🧠 Gestor Inteligente de Suscripciones
 
-> 💡 Todos los proyectos están desarrollados con buenas prácticas, diseño minimalista, y documentación clara.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/jaimezzapata/gestor-suscripciones/blob/main/public/preview.png?raw=true" alt="Preview Gestor Suscripciones" width="100%" />
+    </td>
+    <td>
+      <h3>🧾 Descripción</h3>
+      <p>Aplicación para organizar y controlar tus suscripciones digitales. Incluye calendario, alertas, categorías y visualización de gastos recurrentes.</p>
+      <ul>
+        <li>🔍 Seguimiento por tipo de servicio</li>
+        <li>📆 Alertas próximas a vencimiento</li>
+        <li>📊 Panel con resumen visual</li>
+      </ul>
+      <p>
+        🔗 <a href="https://gestor-suscripciones.vercel.app">Demo en vivo</a> |
+        📦 <a href="https://github.com/jaimezzapata/gestor-suscripciones">Repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 💸 Simulador de Finanzas Personales
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/jaimezzapata/simulador-finanzas/blob/main/public/preview.png?raw=true" alt="Preview Finanzas Personales" width="100%" />
+    </td>
+    <td>
+      <h3>🧾 Descripción</h3>
+      <p>Aplicación para el control mensual de gastos personales, con gráficos y estadísticas automáticas por categoría.</p>
+      <ul>
+        <li>💵 Registro de ingresos y egresos</li>
+        <li>📊 Gráficos de resumen mensual</li>
+        <li>📁 Exportación de reportes</li>
+      </ul>
+      <p>
+        🔗 <a href="https://finanzas-personales.vercel.app">Demo en vivo</a> |
+        📦 <a href="https://github.com/jaimezzapata/simulador-finanzas">Repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 📝 Notas Colectivas (MPA)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/jaimezzapata/notas-colectivas/blob/main/public/preview.png?raw=true" alt="Preview Notas Colectivas" width="100%" />
+    </td>
+    <td>
+      <h3>🧾 Descripción</h3>
+      <p>Aplicación modular para crear, editar y compartir notas colectivas entre compañeros de estudio.</p>
+      <ul>
+        <li>🧾 Creación colaborativa de notas</li>
+        <li>🔐 Sistema de autenticación local</li>
+        <li>📁 Organización por usuario</li>
+      </ul>
+      <p>
+        🔗 <a href="https://notas-colectivas.vercel.app">Demo en vivo</a> |
+        📦 <a href="https://github.com/jaimezzapata/notas-colectivas">Repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 📘 Plataforma Educativa (SPA)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/jaimezzapata/plataforma-educativa/blob/main/public/preview.png?raw=true" alt="Preview Plataforma Educativa" width="100%" />
+    </td>
+    <td>
+      <h3>🧾 Descripción</h3>
+      <p>Gestión de contenido educativo por materia y semana. Incluye recursos, notas adicionales, ventajas y desventajas por tema.</p>
+      <ul>
+        <li>📚 Gestión por materia y semanas</li>
+        <li>✅ Panel administrativo para edición</li>
+        <li>🧩 Diseñado con UX minimalista y accesible</li>
+      </ul>
+      <p>
+        🔗 <a href="https://edu-platform.vercel.app">Demo en vivo</a> |
+        📦 <a href="https://github.com/jaimezzapata/plataforma-educativa">Repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,16 +147,6 @@ Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con expe
   <img src="https://github-readme-stats.vercel.app/api?username=jaimezzapata&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimezzapata&layout=compact&theme=tokyonight" height="170"/>
 </p>
-
----
-
-### 📌 Últimos aportes
-
-<!--START_SECTION:activity-->
-1. 🛠️ Actualizando mi portafolio personal
-2. 🎓 Creando recursos educativos para mis estudiantes
-3. ✨ Publicando nuevos proyectos en GitHub
-<!--END_SECTION:activity-->
 
 ---
 
