@@ -40,7 +40,7 @@ Disfruto enseñar lo que sé y aprender lo que aún no domino. Creo firmemente q
 🔹 **Gestor Inteligente de Suscripciones**  
 Organiza todas tus plataformas de pago en un solo lugar.  
 _Tecnologías: React, Tailwind, JSON-Server + JWT_  
-[Ver proyecto](https://front-despliegue-rho.vercel.app/login)
+[Ver proyecto](https://front-despliegue-rho.vercel.app)
 
 🔹 **Control de Nómina por Hora**  
 App para freelancers que calcula su salario por tiempo trabajado.  
