@@ -1,74 +1,84 @@
+<h1 align="center">👨‍💻 Jaime Zapata - Desarrollador Frontend y Docente</h1>
 
-# 👋 Hola, soy Jaime Zapata
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Bienvenido%20a%20mi%20GitHub!&fontSize=40&fontColor=ffffff" />
+</p>
 
-**Desarrollador Frontend** | **Docente de desarrollo de software**  
-Apasionado por enseñar, crear productos útiles y escribir código limpio.
-
----
-
-## 🧠 ¿Quién soy?
-
-Soy un profesional en desarrollo de software con experiencia en la enseñanza y creación de aplicaciones web. Me gusta resolver problemas reales con tecnología accesible, interfaces minimalistas y una lógica bien estructurada.
-
-Disfruto enseñar lo que sé y aprender lo que aún no domino. Creo firmemente que la programación debe ser comprensible, práctica y humana.
+<div align="center">
+  <strong>📍 Medellín, Colombia</strong>  
+  <br/>
+  <code>Frontend Developer | JavaScript | React | Docente de Desarrollo Web</code>
+</div>
 
 ---
 
-## 💼 ¿Qué hago?
+### ✨ Sobre mí
 
-- Enseño JavaScript, React, HTML y CSS en instituciones de formación técnica
-- Desarrollo aplicaciones que mejoran la organización personal y la productividad
-- Creo contenidos educativos claros, útiles y modernos
-- Combino diseño funcional con buenas prácticas de desarrollo
+Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con experiencia en **docencia y desarrollo frontend**. Me apasiona crear interfaces intuitivas, enseñar de forma práctica y desarrollar proyectos que resuelvan problemas reales.
+
+- 🧠 Apasionado por la enseñanza y el aprendizaje constante
+- 🛠️ Trabajo principalmente con HTML, CSS, JavaScript y React
+- 🎓 Profesor de desarrollo de software con enfoque en el pensamiento lógico y práctico
+- 💼 Buscando oportunidades para seguir creciendo como desarrollador y mentor
+
+📫 Puedes contactarme en: [zapataval2304@gmail.com](mailto:zapataval2304@gmail.com)
 
 ---
 
-## ⚙️ Tecnologías favoritas
+### 🧰 Tecnologías y herramientas
 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 
 ---
 
-## 🚀 Proyectos destacados
+### 🚀 Mis proyectos destacados
 
-🔹 **Gestor Inteligente de Suscripciones**  
-Organiza todas tus plataformas de pago en un solo lugar.  
-_Tecnologías: React, Tailwind, JSON-Server + JWT_  
-[Ver proyecto](https://front-despliegue-rho.vercel.app)
+| Proyecto | Demo | Repositorio |
+|---------|------|-------------|
+| 🧠 **Gestor Inteligente de Suscripciones**<br/>Aplicación web para llevar el control de tus suscripciones digitales. | [Ver demo](https://gestor-suscripciones.vercel.app) | [Ver repo](https://github.com/jaimezzapata/gestor-suscripciones) |
+| 💸 **Simulador de Finanzas Personales**<br/>Control de gastos mensuales con gráficos y resúmenes automáticos. | [Ver demo](https://finanzas-personales.vercel.app) | [Ver repo](https://github.com/jaimezzapata/simulador-finanzas) |
+| 📝 **Notas Colectivas (MPA)**<br/>App modular para tomar notas colaborativas por grupo de estudio. | [Ver demo](https://notas-colectivas.vercel.app) | [Ver repo](https://github.com/jaimezzapata/notas-colectivas) |
+| 📘 **Plataforma Educativa**<br/>Gestión de contenidos por materia, semanas, recursos y proyectos integradores. | [Ver demo](https://edu-platform.vercel.app) | [Ver repo](https://github.com/jaimezzapata/plataforma-educativa) |
 
-🔹 **Control de Nómina por Hora**  
-App para freelancers que calcula su salario por tiempo trabajado.  
-_Tecnologías: React, JSON-Server_  
-[Ver proyecto](#)
-
-🔹 **Recetario Digital**  
-Aplicación para guardar, buscar y categorizar recetas personales.  
-_Tecnologías: React, Tailwind_  
-[Ver proyecto](#)
+> 💡 Todos los proyectos están desarrollados con buenas prácticas, diseño minimalista, y documentación clara.
 
 ---
 
-## 📈 GitHub Stats
+### 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaimezzapata&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimezzapata&layout=compact&langs_count=8&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaimezzapata&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimezzapata&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🤝 Conectemos
+### 📌 Últimos aportes
 
-📧 zapataval2304@gmail.com  
-🌍 Medellín, Colombia  
+<!--START_SECTION:activity-->
+1. 🛠️ Actualizando mi portafolio personal
+2. 🎓 Creando recursos educativos para mis estudiantes
+3. ✨ Publicando nuevos proyectos en GitHub
+<!--END_SECTION:activity-->
 
 ---
 
-_Siempre estoy aprendiendo, creando y compartiendo. Gracias por pasar por aquí._ 🚀
+### 🤝 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimezzapata/)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-111827?style=flat&logo=vercel&logoColor=white)](https://tu-portafolio.vercel.app/)
+[![Correo](https://img.shields.io/badge/-Correo-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zapataval2304@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=150&section=footer"/>
+</p>
