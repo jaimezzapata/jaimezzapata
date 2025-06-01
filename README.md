@@ -1,5 +1,3 @@
-<!-- Banner -->
-<img src="https://lh3.googleusercontent.com/a/ACg8ocIBHxGjZicHXR4_vMuqUM48FKVHVLhXkaqCIXaNjbI0-HzGeWAR=s432-c-no" alt="Banner Jaime Zapata" width="50%" />
 
 # 👋 Hola, soy Jaime Zapata
 
