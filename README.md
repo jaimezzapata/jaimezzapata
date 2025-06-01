@@ -57,9 +57,9 @@ _Tecnologías: React, Tailwind_
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaimezapata&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaimezzapata&show_icons=true&theme=default" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimezapata&layout=compact&langs_count=8&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimezzapata&layout=compact&langs_count=8&theme=default" />
 </p>
 
 ---
