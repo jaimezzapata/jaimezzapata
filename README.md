@@ -52,16 +52,20 @@ Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con expe
 
 ---
 
-#### 💸 Simulador de Finanzas Personales
+#### 💸 Bloc de notas personal
 
 | Característica | Descripción |
 |----------------|-------------|
-| 🧾 **Descripción** | Control de ingresos y egresos mensuales, con generación automática de gráficos y resúmenes. Ideal para presupuestos personales. |
-| 📊 Funciones clave | Categorías, resumen mensual, exportación de reportes |
-| 🔗 Demo | [Ver en vivo](#) |
-| 📦 Repositorio | [github.com/jaimezzapata/simulador-finanzas](#) |
+| 🧾 **Descripción** | Aplicación web para registrar notas rápidas por materia, fecha y hora. Las notas se muestran como post-its digitales agrupados cronológicamente. |
+| 📊 **Funciones clave** | Notas tipo post-it, organización por materia y día, guardado instantáneo con tecla Enter o clic, diseño UX/UI limpio y accesible. |
+| 📚 **Materias configurables** | Web1, Web2, Lógica, Introducción a la Programación y Metodologías Ágiles. |
+| ⚡ **Flujo rápido** | Pensada para usarse en vivo durante clases virtuales o presenciales, sin pasos innecesarios. |
+| 🎨 **Diseño visual** | Minimalista, colores suaves, navegación intuitiva y accesible. |
+| 🔗 Demo | [Ver en vivo](https://notes-ui-40579.web.app/)|
+| 📦 Repositorio | [Control Suscripciones](#) |
 
 ---
+
 
 #### 📝 Notas Colectivas (MPA)
 
