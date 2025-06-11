@@ -39,55 +39,6 @@ Soy **Jaime Zapata**, profesional en análisis y desarrollo de software con expe
 
 ---
 
-### 🚀 Proyectos Destacados
-
-#### 🧠 Gestor Inteligente de Suscripciones
-
-| Característica | Descripción |
-|----------------|-------------|
-| 🧾 **Descripción** | Aplicación para organizar y controlar tus suscripciones digitales. Incluye calendario, alertas, categorías y visualización de gastos. |
-| 🔍 Funciones clave | Seguimiento por tipo de servicio, alertas por vencimiento, panel con resumen visual |
-| 🔗 Demo | [Ver en vivo](https://front-despliegue-rho.vercel.app)|
-| 📦 Repositorio | [Control Suscripciones](https://github.com/jaimezzapata/control-suscripciones.git) |
-
----
-
-#### 💸 Bloc de notas personal
-
-| Característica | Descripción |
-|----------------|-------------|
-| 🧾 **Descripción** | Aplicación web para registrar notas rápidas por materia, fecha y hora. Las notas se muestran como post-its digitales agrupados cronológicamente. |
-| 📊 **Funciones clave** | Notas tipo post-it, organización por materia y día, guardado instantáneo con tecla Enter o clic, diseño UX/UI limpio y accesible. |
-| 📚 **Materias configurables** | Web1, Web2, Lógica, Introducción a la Programación y Metodologías Ágiles. |
-| ⚡ **Flujo rápido** | Pensada para usarse en vivo durante clases virtuales o presenciales, sin pasos innecesarios. |
-| 🎨 **Diseño visual** | Minimalista, colores suaves, navegación intuitiva y accesible. |
-| 🔗 Demo | [Ver en vivo](https://notes-ui-40579.web.app/)|
-| 📦 Repositorio | [Control Suscripciones](#) |
-
----
-
-
-#### 📝 Notas Colectivas (MPA)
-
-| Característica | Descripción |
-|----------------|-------------|
-| 🧾 **Descripción** | App para tomar notas colectivas entre estudiantes o equipos. Incluye autenticación y administración por usuario. |
-| 🧩 Funciones clave | Crear y editar notas, sistema de login, organización por usuario |
-| 🔗 Demo | [Ver en vivo](#) |
-| 📦 Repositorio | [github.com/jaimezzapata/notas-colectivas](#) |
-
----
-
-#### 📘 Plataforma Educativa (SPA)
-
-| Característica | Descripción |
-|----------------|-------------|
-| 🧾 **Descripción** | Plataforma para docentes que organiza el contenido por materia y semanas. Incluye recursos, notas y secciones editables. |
-| 📚 Funciones clave | Panel administrativo, gestión por semana, diseño minimalista y enfocado en UX |
-| 🔗 Demo | [Ver en vivo](#) |
-| 📦 Repositorio | [github.com/jaimezzapata/plataforma-educativa](#) |
-
----
 
 ### 📈 Estadísticas
 
